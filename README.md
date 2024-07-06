@@ -1,2 +1,4 @@
 # dio.java.basico
-Para armazenar o código do curso Java básico na Dio
+Repositório para armazenar o código do curso Java básico na Dio;
+teste: Alterando o conteúdo de um arquivo de forma local;
+
